@@ -1,0 +1,20 @@
+
+
+
+1 - Nota tablosu koyulacak  (Scriptleri hazirlanacak (Egitim sarkisi çalicak sonra kullanici tekrar edEcek))
+
+2 - Kullanici tarafindan müzik kaydi
+
+3 - Skybox ya da 2d box koyularak alan daraltilacak
+
+4 - Menü buton animasyonlari yapilacak
+
+5 - Görevler eklenecek (Achivement tarzi tesvik amaçli)
+
+6 - Ayarlar eklenecek (Tus ve çevre tema seçimi eklenecek - Yön sifirlama butonu eklenecek ( Baktigin yönü açilis yönü yapacak ) - Ses modu seçimi ) 
+
+7 - Animasyonlu ortam eklenecek
+
+8 - Puanlama sistemi eklenecek
+
+9 - 
